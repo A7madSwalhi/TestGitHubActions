@@ -22,7 +22,7 @@ jobs:
           node-version: node-version
           
 
-      - name: Install Dpendinses
+      - name: Install App Packages
         run: | 
           npm install 
           pwd
